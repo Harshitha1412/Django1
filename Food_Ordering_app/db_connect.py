@@ -4,10 +4,10 @@ from psycopg2 import OperationalError
 # Replace with your actual database connection details
 connection_params = {
     'host': '127.0.0.1',
-    'port': '5432',
-    'database': 'Food_app',
-    'user': 'postgres',
-    'password': '12345',
+    'port': '*****',
+    'database': '*****',
+    'user': '******',
+    'password': '*****',
 }
 
 # Replace with the actual registration data
